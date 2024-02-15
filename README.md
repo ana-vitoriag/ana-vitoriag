@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Vi! </h1>
 
 <p align="center">
-  <i>Estudante de Análise e Desenvolvimento de Sistemas pela UNIFOR.</i>
+  <i>Estudante de Análise e Desenvolvimento de Sistemas</i>
 </p>
 
 <div align="center">
